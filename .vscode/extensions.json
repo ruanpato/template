@@ -18,6 +18,7 @@
         "p1c2u.docker-compose",
         "ms-vscode.cpptools",
         "vscjava.vscode-java-pack",
-        "felixfbecker.php-intellisense"
+        "felixfbecker.php-intellisense",
+        "shardulm94.trailing-spaces"
     ]
 }

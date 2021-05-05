@@ -10,5 +10,5 @@
   "editor.insertSpaces": true,
   "editor.detectIndentation": true,
   "files.eol": "\n",
-  "totvsLanguageServer.welcomePage": false
+  "trailing-spaces.trimOnSave": true
 }
